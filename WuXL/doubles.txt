@@ -1,0 +1,20 @@
+[
+  {
+    "clickId": "082e392e-f966-44bb-98ab-e21d11a87cdf",
+    "enterTick": "null",
+    "widget": "pCourses-Status",
+    "count": 5
+  },
+  {
+    "clickId": "9b8d6424-3f7d-40db-8ad7-4dce0a47bacd",
+    "enterTick": "null",
+    "widget": "pL-Submit",
+    "count": 1
+  },
+  {
+    "clickId": "f0b7949f-5688-4c75-8ca3-83b4f9e1d85a",
+    "enterTick": "null",
+    "widget": "pSGNP-Submit",
+    "count": 1
+  }
+]

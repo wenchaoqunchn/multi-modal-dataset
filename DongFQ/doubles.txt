@@ -1,0 +1,26 @@
+[
+  {
+    "clickId": "427e0b36-20be-476d-a0ce-6edc3c7c4611",
+    "enterTick": "null",
+    "widget": "pCourses-Status",
+    "count": 12
+  },
+  {
+    "clickId": "4847df98-b691-4665-b970-cded85e6d22b",
+    "enterTick": "null",
+    "widget": "pSGNP-Submit",
+    "count": 3
+  },
+  {
+    "clickId": "a012af77-136a-41c1-8ec1-836d809d231d",
+    "enterTick": "null",
+    "widget": "pLearn-Courseware",
+    "count": 2
+  },
+  {
+    "clickId": "e343e18d-d93e-4a0a-b9f0-5417d0641eed",
+    "enterTick": "null",
+    "widget": "pL-Submit",
+    "count": 5
+  }
+]

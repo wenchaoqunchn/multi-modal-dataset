@@ -1,0 +1,32 @@
+[
+  {
+    "clickId": "68a247bb-e59e-4d01-b402-e4aeb3450a96",
+    "enterTick": "null",
+    "widget": "pL-Submit",
+    "count": 6
+  },
+  {
+    "clickId": "7cd3e589-439c-4aeb-bbdf-4a8a379df635",
+    "enterTick": "null",
+    "widget": "pSGNP-Submit",
+    "count": 7
+  },
+  {
+    "clickId": "d5760926-bd89-494a-bfa0-e3eba6c3a3a3",
+    "enterTick": "null",
+    "widget": "pTeach-Courseware",
+    "count": 2
+  },
+  {
+    "clickId": "f02986a2-1327-4c17-8fcf-1cebc39203eb",
+    "enterTick": "null",
+    "widget": "pTeach-Courseware",
+    "count": 1
+  },
+  {
+    "clickId": "fefe6b5a-24bd-4b9e-b2d3-18fa6ffaf23d",
+    "enterTick": "null",
+    "widget": "pCourses-Status",
+    "count": 8
+  }
+]
